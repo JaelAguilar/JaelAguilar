@@ -39,3 +39,5 @@ Here are some ideas to get you started:
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaelaguilar&show_icons=true&theme=tokyonight&locale=en" alt="jaelaguilar" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaelaguilar&theme=onedark&title=Repositories,Commits,Issues,PullRequest,Stars&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
