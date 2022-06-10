@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jael Aguilar</h1>
 <h3 align="center">A Systems Engineer who loves learning</h3>
 
+- 🔭 I’m working on completing the [Odin Project Curriculum](https://www.theodinproject.com/)
+
 - 🌱 I’m currently learning **Web Development**
 
 - 📫 You can reach me by sending an e-mail to **cjaelaguilar@gmail.com**
